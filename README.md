@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @motaamneh
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dm me on instagram @motaamneh
 
 <!---
